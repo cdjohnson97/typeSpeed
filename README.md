@@ -1,2 +1,3 @@
 # typeSpeed
-Une application web speed type sur react js
+Une application web speed type avec react js, framer, tailwind css
+
