@@ -1,2 +1,2 @@
 # typeSpeed
-Une application web react js pour le speed type  
+Une application web speed type sur react js
